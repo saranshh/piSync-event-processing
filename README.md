@@ -25,9 +25,9 @@ PiSync processes sync events from devices, tracks sync history, and identifies d
    ```
    npm install
    ```
-3. Create a `.env` file based on `.env.example`
+3. Create a `.env` file 
    ```
-   cp .env.example .env
+   .env
    ```
 4. Start the server
    ```
